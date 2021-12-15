@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Blitzcryp
-- 👀 I’m interested in anything web related
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: mail(comancosmin112@gmail.com)
+I am an enthusiastic and passionate Web Developer with over 2 years of experience in PHP ( Laravel Framework), MySQL, Javascript ( ReactJS ) and I am up to date with all new web programming techniques and technologies.
 
-<!---
-Blitzcryp/Blitzcryp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can work on projects starting from simple presentation websites to full web applications ( Backend and Frontend ).
+
+I have been developing and maintaining Web API's and Web Applications for big companies for the past year and I sometimes blog about PHP, Javascript, Design Patterns, Database Paradigms etc, being an active member of the Web comunity.
