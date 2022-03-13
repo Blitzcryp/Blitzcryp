@@ -1,10 +1,4 @@
 My language preference as of February 2022:
-* ( S ) PHP, JS, Rust, Haskell
-* ( A ) LaTeX, C
-* ( B ) Python, C++, C#
-* ( C ) MySQL
-* ( D ) Kotlin
-* ( E ) GO
 
 ![my-image](https://user-images.githubusercontent.com/59416533/153570198-19d2bc2b-4a1c-41d9-b6c4-fab1b97dd7d3.png)
 
